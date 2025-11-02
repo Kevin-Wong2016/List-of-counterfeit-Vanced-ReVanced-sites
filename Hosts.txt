@@ -54,8 +54,10 @@
 127.0.0.1 youtube-vanced.co
 127.0.0.1 ytpremium.app 
 127.0.0.1 ytmusic.com.co
-127.0.0.1 premiumyootubeapk.pro 127.0.0.1 youtubemusicpremium.com
-127.0.0.1 ytmusicpremiumapk.com 127.0.0.1 revanced.pk
+127.0.0.1 premiumyootubeapk.pro 
+127.0.0.1 youtubemusicpremium.com
+127.0.0.1 ytmusicpremiumapk.com 
+127.0.0.1 revanced.pk
 127.0.0.1 youtubvanced.com
 127.0.0.1 vancedyoutub.org
 127.0.0.1 revanced.me
