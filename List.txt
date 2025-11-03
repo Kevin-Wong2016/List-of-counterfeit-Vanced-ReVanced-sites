@@ -69,3 +69,4 @@ ytsgold.com
 rvxmanager.net
 revanced-extended.com
 revancedmusic.com
+https://youtube-music-revanced-extended.pages.dev/
