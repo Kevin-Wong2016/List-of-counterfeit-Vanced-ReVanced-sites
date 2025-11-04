@@ -4,8 +4,8 @@
 127.0.0.1 revanced.net
 127.0.0.1 revanced.dev
 127.0.0.1 revanced.to 
-127.0.0.1 revancedextended.com 
-127.0.0.1 revancedextended.io 
+127.0.0.1 revanced.io
+127.0.0.1 revancedextended.com
 127.0.0.1 revancedapp.download 
 127.0.0.1 revancedapps.com 
 127.0.0.1 revancedapk.org
