@@ -70,3 +70,4 @@
 127.0.0.1 revanced-extended.com
 127.0.0.1 revancedmusic.com
 127.0.0.1 youtubevancedapp.pk
+127.0.0.1 revancedextend.com
