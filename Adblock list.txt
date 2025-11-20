@@ -70,6 +70,12 @@
 || revanced-extended.com^
 || revancedmusic.com^
 || youtube-music-revanced-extended.pages.dev/^
-
 || youtubevancedapp.pk^
 || revancedextend.com^
+|| youtubevanced.org
+|| extendedrevanced.com
+|| getrevanced.com
+|| revancedio.com
+|| gmscore.app
+|| vanced.com.co
+youtubevanced.videoder.org
