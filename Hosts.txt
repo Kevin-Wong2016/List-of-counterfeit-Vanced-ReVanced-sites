@@ -37,8 +37,7 @@
 127.0.0.1 youtubepro.app 
 127.0.0.1 yt.gold 
 127.0.0.1 youtubegold.net 
-127.0.0.1 ytgold.app 
-127.0.0.1 ytgold.wazaps.net
+127.0.0.1 ytgold.app
 127.0.0.1 youtubevanced.tools
 127.0.0.1 youtubevanced.io
 127.0.0.1 vancedapp.io 
@@ -50,7 +49,6 @@
 127.0.0.1 ytmod.pro 
 127.0.0.1 revanceds.com
 127.0.0.1 youtubevanced.cc
-127.0.0.1 tuber.vercel.app 
 127.0.0.1 youtube-vanced.co
 127.0.0.1 ytpremium.app 
 127.0.0.1 ytmusic.com.co
