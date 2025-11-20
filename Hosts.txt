@@ -71,3 +71,9 @@
 127.0.0.1 revancedmusic.com
 127.0.0.1 youtubevancedapp.pk
 127.0.0.1 revancedextend.com
+127.0.0.1 youtubevanced.org
+127.0.0.1 extendedrevanced.com
+127.0.0.1 getrevanced.com
+127.0.0.1 revancedio.com
+127.0.0.1 gmscore.app
+127.0.0.1 vanced.com.co
