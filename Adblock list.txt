@@ -79,3 +79,4 @@
 || gmscore.app^
 || vanced.com.co^
 || youtubevanced.videoder.org^
+|| youtuberevanced.app^
